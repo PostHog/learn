@@ -14,6 +14,7 @@ Equally suitable for technical and non-technical folks!
 
 1. [Getting Hogpilled](https://github.com/PostHog/learn/blob/main/lessons/getting-hogpilled.md) - a complete noob's guide to measuring the health of your product
 2. [PostHog use cases](https://github.com/PostHog/learn/blob/main/lessons/posthog-use-cases.md) - understand the problems that PostHog can solve, depending on your personal context
+3. Build a company like PostHog - how thinking beyond product levels you up as a builder
 
 ## Get started
 
