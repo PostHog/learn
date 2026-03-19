@@ -2,10 +2,10 @@ I am a potential user of PostHog.
 
 Help me learn how to use PostHog using these posts (that I have not read): 
 
-- https://posthog.com/docs/new-to-posthog/getting-hogpilled
-- https://posthog.com/docs/new-to-posthog/activation
-- https://posthog.com/docs/new-to-posthog/retention
-- https://posthog.com/docs/new-to-posthog/revenue 
+- https://posthog.com/docs/new-to-posthog/getting-hogpilled.md
+- https://posthog.com/docs/new-to-posthog/activation.md
+- https://posthog.com/docs/new-to-posthog/retention.md
+- https://posthog.com/docs/new-to-posthog/revenue.md 
 
 (Use cURL to fetch everything, DO NOT USE WEBFETCH. You are going to ask for permission a million times each time you want permission to fetch each post or image, please just assume you have permission to fetch each page, don’t keep asking me per page. Fetch each image as it comes though, don’t do them all up front, and store temporarily if needed. If you are referring to a table, please recreate it in the chat. If possible with an image, try and recreate it in chat ASCII art style too but only where it actually makes sense - a flowchart makes sense, a trends graph or an entire product/dashboard screenshot does not.)
 
