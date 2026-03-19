@@ -24,6 +24,8 @@ Equally suitable for technical and non-technical folks!
 - Paste the contents of the .md file into PostHog Code as a prompt
   - Make sure you're not in `Plan Mode`
   - Works best with `Claude Opus 4.6` on `High` effort
+  - When prompted, hit `Yes and auto-accept edits`
+- Wait ~2min
 - Learn stuff
 - Win
 
