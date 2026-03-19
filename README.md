@@ -5,9 +5,8 @@ Personalized content that helps you learn about how to make your product success
 ## Who these lessons are for
 
 - People who prefer to learn without context-switching, reading the docs, or watching videos
-- People who want to learn how ask PostHog AI better questions
-- People who don't know what PostHog is, or what things like 'session replay' and 'error tracking' even do
 - People who want to understand why someone would want to use PostHog, and the types of problems they're trying to solve
+- People who don't know what PostHog is, or what things like 'session replay' and 'error tracking' even do
 
 Equally suitable for technical and non-technical folks!
 
