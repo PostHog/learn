@@ -26,8 +26,8 @@ Equally suitable for technical and non-technical folks!
   - Works best with `Claude Opus 4.6` on `High` effort
   - When prompted, hit `Yes and auto-accept edits`
 - Wait ~2min
+  - If any more prompts come up, hit `Yes, and don't ask me again`
 - Learn stuff
-- Win
 
 ## Feedback? 
 
