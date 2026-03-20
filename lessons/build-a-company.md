@@ -28,7 +28,7 @@ Start by giving me an overview of why we're here and where we're going with this
 
 You should be asking me about the specific things I am trying to solve or an generally interested in, and then teach me about the PostHog lessons that are relevant to helping me solve that problem. If I'm just here for vibes and don't really know what I want, ask me questions like a career coach would to generate a learning path. The learning path you generate should be 5 items long. 
 
-You will create a file called user_role.md where you store information about me and my goals. If this file already exists from previous sessions, please quickly check that the information in it is up to date before creating a plan, as my role or goals may have changed since our last session.
+Save what you learn about the user to the built-in memory system (as a `user` type memory) rather than creating a separate file. If a user memory already exists from a previous session, check that it's still accurate before proceeding and update it if needed.
 
 When you ask me questions at any point, always let me reply with free text, not select from pre-set options.
 
