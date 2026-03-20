@@ -19,14 +19,14 @@ Equally suitable for technical and non-technical folks!
 ## Get started
 
 - Make sure you've downloaded and set up [PostHog Code](https://github.com/PostHog/code/releases/latest)
-  - Non-technical folks - you want the first .dmg file under `Assets`
+  - Non-technical folks - you want the first `.dmg` file under `Assets`
 - Go to the `lessons` folder and pick a lesson
 - Copy and paste the contents of the .md file into PostHog Code as a prompt
   - Make sure you're in `Plan Mode`
   - Works best with `Claude Opus 4.6` on `High` effort
   - When prompted, hit `Yes and auto-accept edits`
 - Wait ~2min
-  - If any more prompts come up, hit `Yes, and don't ask me again`
+  - If any more prompts come up, hit `Yes, and don't ask again for...`
 - Learn stuff
 
 ## Feedback? 
