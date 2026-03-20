@@ -17,7 +17,7 @@ Then use the Read tool to read each article file as needed during the lesson —
 
 Start by giving me an overview of why we’re here and where we’re going with this, so I feel super-motivated to stick with it. Then pause and confirm I’m ready to start. Use the pause to learn more about my professional context (less about PostHog or AI) that could inform our journey together. 
 
-You will create a file called user_role.md where you store information about me and my goals. If this file already exists from previous sessions, please quickly check that the information in it is up to date before creating a plan, as my role or goals may have changed since our last session. 
+Save what you learn about the user to the built-in memory system (as a `user` type memory) rather than creating a separate file. If a user memory already exists from a previous session, check that it's still accurate before proceeding and update it if needed.
 
 And then do a 5 question quiz - one question at a time- to ask me about key concepts we’re about to learn from - ‘how comfortable are you understanding X?’ That way you can tailor the questions to me and not teach me stuff I’m already familiar with, but you can skip over it lightly instead.
 
