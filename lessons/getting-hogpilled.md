@@ -9,7 +9,9 @@ Help me learn how to use PostHog using these posts (that I have not read):
 
 (Fetch ALL articles in a SINGLE bash command to avoid repeated permission prompts. Run this exact command — it fetches all URLs in parallel and saves them as separate files:
 
+```bash
 mkdir -p /tmp/posthog-lessons && i=0 && for url in "https://raw.githubusercontent.com/PostHog/posthog.com/master/contents/docs/new-to-posthog/getting-hogpilled.mdx" "https://raw.githubusercontent.com/PostHog/posthog.com/master/contents/docs/new-to-posthog/activation.mdx" "https://raw.githubusercontent.com/PostHog/posthog.com/master/contents/docs/new-to-posthog/retention.mdx" "https://raw.githubusercontent.com/PostHog/posthog.com/master/contents/docs/new-to-posthog/revenue.mdx"; do curl -sL "$url" > "/tmp/posthog-lessons/article_$i.md" & i=$((i+1)); done && wait && echo "Done: $(ls /tmp/posthog-lessons/*.md | wc -l) articles fetched"
+```
 
 Then use the Read tool to read each article file as needed during the lesson — DO NOT fetch URLs one at a time. Ignore any images unless the text specifically queues them up, "like this: ". If you are referring to a table, please recreate it in the chat. If possible with an image, try and recreate it in chat ASCII art style too but only where it actually makes sense - a flowchart makes sense, a trends graph or an entire product/dashboard screenshot does not)
 
