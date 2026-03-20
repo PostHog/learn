@@ -1,6 +1,6 @@
 # PostHog Learn
 
-Personalized content that helps you learn about how to make your product successful, inside [PostHog Code](https://github.com/PostHog/code/releases/latest). 
+Personalized content that helps you learn about how to make your product successful, inside Claude Code. 
 
 ## Who these lessons are for
 
@@ -12,9 +12,9 @@ Equally suitable for technical and non-technical folks!
 
 ## Lessons
 
-1. [Getting Hogpilled](https://github.com/PostHog/learn/blob/main/lessons/getting-hogpilled.md) - a complete noob's guide to measuring the health of your product
-2. [PostHog use cases](https://github.com/PostHog/learn/blob/main/lessons/posthog-use-cases.md) - understand the problems that PostHog can solve, depending on your personal context
-3. [Build a company like PostHog](https://github.com/PostHog/learn/blob/main/lessons/build-a-company.md) - how thinking beyond product levels you up as a builder
+1. [Getting Hogpilled](https://github.com/PostHog/learn/tree/main/lessons/getting-hogpilled) - a complete noob's guide to measuring the health of your product
+2. [PostHog use cases](https://github.com/PostHog/learn/tree/main/lessons/posthog-use-cases) - understand the problems that PostHog can solve, depending on your personal context
+3. [Build a company like PostHog](https://github.com/PostHog/learn/tree/main/lessons/build-a-company) - how thinking beyond product levels you up as a builder
 
 ## Get started
 
