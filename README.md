@@ -1,6 +1,6 @@
 # PostHog Learn
 
-Personalized content that helps you learn about how to make your product successful, inside Claude Code. 
+Personalized content that helps you learn about how to make your product successful, inside [PostHog Code](https://github.com/PostHog/code/releases/latest). 
 
 ## Who these lessons are for
 
@@ -12,25 +12,22 @@ Equally suitable for technical and non-technical folks!
 
 ## Lessons
 
-1. [Getting Hogpilled](https://github.com/PostHog/learn/tree/main/lessons/getting-hogpilled) - a complete noob's guide to measuring the health of your product
-2. [PostHog use cases](https://github.com/PostHog/learn/tree/main/lessons/posthog-use-cases) - understand the problems that PostHog can solve, depending on your personal context
-3. [Build a company like PostHog](https://github.com/PostHog/learn/tree/main/lessons/build-a-company) - how thinking beyond product levels you up as a builder
+1. [Getting Hogpilled](https://github.com/PostHog/learn/blob/main/lessons/getting-hogpilled.md) - a complete noob's guide to measuring the health of your product
+2. [PostHog use cases](https://github.com/PostHog/learn/blob/main/lessons/posthog-use-cases.md) - understand the problems that PostHog can solve, depending on your personal context
+3. [Build a company like PostHog](https://github.com/PostHog/learn/blob/main/lessons/build-a-company.md) - how thinking beyond product levels you up as a builder
 
 ## Get started
 
-### Option 1: UI (easiest)
-
-1. Open Claude Code  
-2. Add this repo as a plugin marketplace  
-3. Install the **posthog-learn** plugin  
-4. Start a lesson  
-
-### Option 2: CLI
-
-```bash
-/plugin marketplace add github:PostHog/learn
-/plugin install posthog-learn@posthog-learn
-```
+- Make sure you've downloaded and set up [PostHog Code](https://github.com/PostHog/code/releases/latest)
+  - Non-technical folks - you want the first `.dmg` file under `Assets`
+- Go to the `lessons` folder and pick a lesson
+- Copy and paste the contents of the .md file into PostHog Code as a prompt
+  - Make sure you're in `Plan Mode`
+  - Works best with `Claude Opus 4.6` on `High` effort
+  - When prompted, hit `Yes and auto-accept edits`
+- Wait ~2min
+  - If any more prompts come up, hit `Yes, and don't ask again for...`
+- Learn stuff
 
 ## Feedback? 
 
