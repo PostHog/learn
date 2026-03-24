@@ -23,7 +23,7 @@ Equally suitable for technical and non-technical folks!
 - Go to the `lessons` folder and pick a lesson
 - Copy and paste the contents of the .md file into PostHog Code as a prompt
   - Make sure you're in `Plan Mode`
-  - Works best with `Claude Opus 4.6` on `High` effort
+  - Works best with `Claude Sonnet 4.6` on `High` effort
   - When prompted, hit `Yes and auto-accept edits`
 - Wait ~2min
   - If any more prompts come up, hit `Yes, and don't ask again for...`
